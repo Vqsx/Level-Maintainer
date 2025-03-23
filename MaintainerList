@@ -1,1 +1,4 @@
-{}
+{
+["Example Item One"]={<threshold>,<Request amount>},
+["Example Item Two"]={<threshold>,<Request amount>}
+}
