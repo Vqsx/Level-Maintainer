@@ -9,7 +9,7 @@ Like a AE2FC maintainer.
 # Installation
 Download it
 ```bash
-wget https://raw.githubusercontent.com/lordIcocain/Level-Maintainer/master/installer.lua && installer
+wget https://raw.githubusercontent.com/Vqsx/Level-Maintainer/master/installer.lua && installer
 ```
 
 Run it
