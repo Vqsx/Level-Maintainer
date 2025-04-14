@@ -1,0 +1,11 @@
+{
+  ["Plutonium 241 Rod"] = {2500, 2500},
+  ["Agar"] = {10000, 2000},
+  ["drop of Polyaluminium Chloride"] = {14000000, 1000000},
+  ["drop of Blazing Pyrotheum"] = {20000000, 1000000},
+  ["Crystal Processing Unit"] = {10000, 512},
+  ["Raw Crystal Chip Parts"] = {25000, 1024},
+  ["Raw Crystal Chip"] = {25000, 1024},
+  ["drop of Crushed Ice"] = {20000000, 2000000},
+  ["Nether Cube"] = {5000, 256}
+}
