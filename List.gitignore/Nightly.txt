@@ -26,7 +26,6 @@
   ["Naquadah Ingot"] = {25000, 2048},
   ["Crystal Processing Unit"] = {25000, 512},
   ["Naquadria Ingot"] = {25000, 2048},
-  ["Neutronium Ingot"] = {5000, 128},
   ["Mysterious Crystal Ingot"] = {10000, 256},
   ["Yttrium Barium Cuprate Ingot"] = {100000, 4096}
 }

@@ -1,10 +1,17 @@
 {
-  ["Plutonium 241 Rod"] = {2500, 2500},
-  ["Agar"] = {10000, 2000},
+  ["Plutonium 241 Rod"] = {10000, 2500},
+  ["Agar"] = {25000, 5000},
   ["drop of Polyaluminium Chloride"] = {50000000, 10000000},
   ["drop of Blazing Pyrotheum"] = {20000000, 1000000},
-  ["Raw Crystal Chip Parts"] = {25000, 1024},
-  ["Raw Crystal Chip"] = {25000, 1024},
+  ["Raw Crystal Chip Parts"] = {25000, 1000},
+  ["Raw Crystal Chip"] = {25000, 1000},
   ["drop of Crushed Ice"] = {20000000, 2000000},
-  ["Nether Cube"] = {5000, 256}
+  ["Enriched Naquadah Rod"] = {10000, 1024},
+  ["Unknown Crystal Shard"] = {100000, 10000},
+  ["Stemcells"] = {100000, 10000},
+  ["Tiny Pile of Infinity Catalyst Dust"] = {10000, 1024},
+  ["drop of Unknown Nutrient Agar"] = {1000000, 100000},
+  ["Mytryl Dust"] = {10000, 1000},
+  ["Exquisite Cerium-doped Lutetium Aluminium Garnet (Ce:LuAG)"] = {100000, 2500},
+  ["Cerium-doped Lutetium Aluminium Garnet (Ce:LuAG) Dust"] = {100000, 2500}
 }
