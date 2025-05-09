@@ -13,5 +13,8 @@
   ["drop of Unknown Nutrient Agar"] = {1000000, 100000},
   ["Mytryl Dust"] = {10000, 1000},
   ["Exquisite Cerium-doped Lutetium Aluminium Garnet (Ce:LuAG)"] = {100000, 2500},
+  ["drop of Molten Atomic Separation Catalyst"] = {1000000, 250000},
   ["Cerium-doped Lutetium Aluminium Garnet (Ce:LuAG) Dust"] = {100000, 2500}
 }
+
+
