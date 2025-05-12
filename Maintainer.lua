@@ -2,7 +2,7 @@ local ae2 = require("AE2")
 local serialization = require("serialization")
  
 local cfg = {}
-local sleepInterval = 60 --Seconds
+local sleepInterval = 300 --Seconds
 
 local function load()
     local file = io.open("/home/MaintainerList", "r")
