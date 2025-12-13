@@ -1,9 +1,11 @@
 {
   ["Neutronium Drill Tip"] = {25000, 5000},
   ["Naquadah Alloy Drill Tip"] = {25000, 5000},
+  ["Titanium Drill Tip"] = {25000, 5000},
   ["Steel Drill Tip"] = {25000, 5000},
   ["Neutronium Rod"] = {25000, 5000},
   ["Naquadah Alloy Rod"] = {25000, 5000},
+  ["Titanium Rod"] = {25000, 5000},
   ["Steel Rod"] = {25000, 5000}
 }
 

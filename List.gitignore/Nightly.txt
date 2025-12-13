@@ -7,7 +7,7 @@
   ["HSS-G Ingot"] = {250000, 25000},
   ["HSS-S Ingot"] = {500000, 50000},
   ["Iridium Ingot"] = {1000000, 25000},
-  ["Naquadah Alloy Ingot"] = {50000, 10000},
+  ["Naquadah Alloy Ingot"] = {500000, 100000},
   ["Niobium-Titanium Ingot"] = {1000000, 25000},
   ["Palladium Ingot"] = {100000, 25000},
   ["Rhodium-Plated Palladium Ingot"] = {50000, 10000},

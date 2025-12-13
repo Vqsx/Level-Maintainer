@@ -14,6 +14,7 @@
   ["Exquisite Cerium-doped Lutetium Aluminium Garnet (Ce:LuAG)"] = {100000, 2500},
   ["drop of Molten Atomic Separation Catalyst"] = {5000000, 1000000},
   ["drop of Phthalic Acid"] = {1000000000, 1000000000},
+  ["drop of Naquadah Based Liquid Fuel MkIV"] = {5000000, 500000},
   ["Cerium-doped Lutetium Aluminium Garnet (Ce:LuAG) Dust"] = {100000, 2500}
 }
 
