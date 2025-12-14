@@ -1,5 +1,9 @@
 {
-  ["Naquadah Alloy Rod"] = {25000, 5000},
-  ["Steel Rod"] = {25000, 5000}
+["Platinum Dust"] = {25000, 100},
+["Palladium Dust"] = {25000, 100},
+["Iridium Dust"] = {25000, 50},
+["Rhodium Dust"] = {25000, 25},
+["Ruthenium Dust"] = {25000, 25},
+["Osmium Dust"] = {25000, 8}
 }
 
